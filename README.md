@@ -45,10 +45,3 @@ Tải file APK:
 - Unity Audio System
 - Sprite Animation
 
----
-
-## 🚀 Chạy dự án trên Unity
-
-1. Clone dự án:
-   ```bash
-   git clone https://github.com/trongnghia1123/Dog-Aventure-Game.git
