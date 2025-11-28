@@ -6,7 +6,11 @@
 
 ## 📂 Cấu trúc thư mục
 
-
+- `/Assets`: File C# cho các tính năng trong game
+- `/Image`: Hình ảnh sử dụng trong gameplay và UI
+- `/Sound`: Âm thanh hiệu ứng và nhạc nền
+- `Dog Aventure Game.apk`: File APK cài đặt game lên Android
+  
 ---
 
 ## 🎮 Giới thiệu trò chơi
