@@ -18,7 +18,7 @@ Trong **Dog Adventure**, người chơi vào vai một chú chó nhỏ khám ph�
 - Vượt qua các đoạn đường thử thách
 - Đạt điểm cao nhất có thể
 
-Game có phong cách dễ thương, điều khiển đơn giản, phù hợp với mọi độ tuổi.
+Game có phong cách đồ họa pixel dễ thương, điều khiển đơn giản, phù hợp với mọi độ tuổi.
 
 ---
 
